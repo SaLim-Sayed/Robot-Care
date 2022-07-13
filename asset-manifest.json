@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Robot-Care/static/css/main.1ffa6469.css",
-    "main.js": "/Robot-Care/static/js/main.c5d8af8c.js",
+    "main.js": "/Robot-Care/static/js/main.5edb7f29.js",
     "static/media/175-1758883_medical-background-free-image-background-for-hospital-website.png": "/Robot-Care/static/media/175-1758883_medical-background-free-image-background-for-hospital-website.f57cec241d1d33641b03.png",
     "static/media/medical-diagnosis-png-clipart.png": "/Robot-Care/static/media/medical-diagnosis-png-clipart.bab2c5d8a8a602178e0f.png",
     "static/media/20-a6cd4cSpecialties-1-10-06.webp": "/Robot-Care/static/media/20-a6cd4cSpecialties-1-10-06.98920b772f0d8dbb6f75.webp",
@@ -10,10 +10,10 @@
     "static/media/Conversational.png": "/Robot-Care/static/media/Conversational.9dbad5cbe7a141765c25.png",
     "index.html": "/Robot-Care/index.html",
     "main.1ffa6469.css.map": "/Robot-Care/static/css/main.1ffa6469.css.map",
-    "main.c5d8af8c.js.map": "/Robot-Care/static/js/main.c5d8af8c.js.map"
+    "main.5edb7f29.js.map": "/Robot-Care/static/js/main.5edb7f29.js.map"
   },
   "entrypoints": [
     "static/css/main.1ffa6469.css",
-    "static/js/main.c5d8af8c.js"
+    "static/js/main.5edb7f29.js"
   ]
 }
